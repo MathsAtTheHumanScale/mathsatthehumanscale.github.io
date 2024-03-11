@@ -21,3 +21,6 @@ end
 
 gem 'wdm' if Gem.win_platform?
 gem "tzinfo-data" if Gem.win_platform?
+
+# file: `Gemfile`
+gem "jekyll-theme-hydejack", path: "./#jekyll-theme-hydejack"
