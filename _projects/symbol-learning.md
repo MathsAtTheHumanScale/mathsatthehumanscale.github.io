@@ -3,14 +3,14 @@ layout: project
 title: 'Symbol Learning'
 caption: Mapping changes in brain networks that underpin (un)successful maths learning
 description: >
-  Recruiting for participants shortly, who must be (1) living in Melbourne, Australia and (2) 18 years or older. Please register your interest to stay informed.
+  Recruiting for participants shortly, who must be <b>(1) living in Melbourne (AU) and (2) 18 years or older</b>. Please register your interest to stay informed.
 date: 11 March 2024
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/projects/symbol-learning.jpg
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
+    1920w: /assets/img/projects/symbol-learning.jpg
+    960w:  /assets/img/projects/symbol-learning@0,5x.jpg
+    480w:  /assets/img/projects/symbol-learning@0,25x.jpg
 links:
   - title: Register interest
     url: https://mathsatthehumanscale.github.io/participate

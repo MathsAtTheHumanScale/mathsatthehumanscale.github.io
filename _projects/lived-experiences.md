@@ -3,14 +3,14 @@ layout: project
 title: 'Lived Experiences'
 caption: Understanding lived experiences of adults with self-identified maths learning difficulties
 description: >
-  Recruiting for participants shortly, who must be (1) living in Australia and (2) 18 years or older. Please register your interest to stay informed.
+  Recruiting for participants shortly, who must be <b>(1) living in Australia and (2) 18 years or older</b>. Please register your interest to stay informed.
 date: 11 March 2024
 image: 
-  path: /assets/img/projects/qwtel.jpg
+  path: /assets/img/projects/lived-experience.jpg
   srcset: 
-    1920w: /assets/img/projects/qwtel.jpg
-    960w:  /assets/img/projects/qwtel@0,5x.jpg
-    480w:  /assets/img/projects/qwtel@0,25x.jpg
+    1920w: /assets/img/projects/lived-experience.jpg
+    960w:  /assets/img/projects/lived-experience@0,5x.jpg
+    480w:  /assets/img/projects/lived-experience@0,25x.jpg
 links:
   - title: Register interest
     url: https://mathsatthehumanscale.github.io/participate
