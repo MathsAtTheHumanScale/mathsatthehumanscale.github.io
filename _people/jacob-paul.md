@@ -3,11 +3,25 @@ layout: project
 title: 'Dr Jacob Paul'
 caption: Lab head
 description: >
-  Research Fellow, University of Melbourne, 2022-current
-  Postdocotral Research Fellow, University of Melbourne, 2021-2022
-  Postdoctoral Research Scientist, Utrecht University, 2018-2021
-  PhD (Psychology), University of Melbourne, 2011-2017
-  B.Sc (Hons, Psychology), University of Melbourne, 2007-2010
+  <b>Research Fellow</b>
+  <br><i>University of Melbourne</i>
+  <br>2022-current<br>
+
+  <b>Postdocotral Research Fellow</b>
+  <br><i>University of Melbourne</i>
+  <br>2021-2022<br>
+
+  <b>Postdoctoral Research Scientist</b>
+  <br><i>Utrecht University, Netherlands</i>
+  <br>2018-2021<br>
+
+  <b>PhD (Psychology)</b>
+  <br><i>University of Melbourne</i>
+  <br>2011-2017<br>
+
+  <b>B.Sc (Hons, Psychology)</b>
+  <br><i>University of Melbourne</i>
+  <br>2007-2010<br>
 date: 11 March 2024
 image: 
   path: /assets/img/people/jacob-paul.jpg
