@@ -14,4 +14,4 @@ Read more about our <b>[Projects](https://mathsatthehumanscale.github.io/project
 If you are interested in participating in any of our research, please register <b>[here](https://mathsatthehumanscale.github.io/participate/)</b><br>
 
 <br>
-The MATHS Lab is headed by <b>[Dr. Jacob Paul](https://findanexpert.unimelb.edu.au/profile/426619-jacob-paul)</b> from the <i>School of Psychological Sciences, University of Melbourne.</i>.
+The MATHS Lab is headed by <b>[Dr. Jacob Paul](https://findanexpert.unimelb.edu.au/profile/426619-jacob-paul)</b> from the <i>School of Psychological Sciences, University of Melbourne</i>.
