@@ -3,7 +3,7 @@ layout: project
 title: 'Dyscalculia Explainer'
 caption: What is dyscalculia and how does it affect learning? 
 description: >
-  Shannon Meyerkort<br>
+  With Shannon Meyerkort<br>
   SchoolNews, Australia
 date: 10 March 2024
 image: 

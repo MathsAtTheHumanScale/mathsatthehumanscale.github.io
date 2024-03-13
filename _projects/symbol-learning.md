@@ -21,7 +21,7 @@ font_heading: false
 font_code:    false
 ---
 
-Did you find learning mathematics in school to be a bad experience? Do you have difficulty using numbers and basic maths in your daily life? Do you avoid maths puzzles and games (e.g., Sudoku, 2048, dominos)? If so, we would like to understand your experiences with maths in our research project, which aims to study the strategies you use when dealing with numbers and maths every day.
+This research aims to better understand why some people find it easier or harder to use symbols (for example, the digits 1 to 9) for tasks like ordering, spacing, and comparing numbers, as well as using these symbols to add and subtract numbers. We will recruit people who find learning maths difficult, as well as those who find maths enjoyable. Over separate days participants will learn to use a new set of symbols to order, space, and compare numbers, as well as using these symbols for addition and subtraction. Participants will also have their brain scanned using an MRI machine.
 
 Register your interest in participating in future MATHS Lab studies [here](https://mathsatthehumanscale.github.io/participate).<!--If you live in Australia, are 18 years or older, and would like to participate, click here to learn more [hyperlink to the Plain Language Statement].-->
 
