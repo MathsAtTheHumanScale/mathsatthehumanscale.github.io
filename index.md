@@ -8,10 +8,10 @@ Mathematics is universal, which can make it seem other-worldly and out of reach 
 
 By better understanding how we construct mental models of maths knowledge, <b>our goal is to ultimately make learning maths more effective, enjoyable, and accessible for all</b>.<br>
 
+<br>
+Read more about our <b>[Projects](https://mathsatthehumanscale.github.io/projects/)</b> and the <b>[People](https://mathsatthehumanscale.github.io/people/)</b> that make up the MATHS Lab.<br>
 
-Read more about our [Projects](https://mathsatthehumanscale.github.io/projects/) and the [People](https://mathsatthehumanscale.github.io/people/) that make up the MATHS Lab.<br>
+If you are interested in participating in any of our research, please register <b>[here](https://mathsatthehumanscale.github.io/participate/)</b><br>
 
-If you are interested in participating in any of our research, please register [here](https://mathsatthehumanscale.github.io/participate/)<br>
-
-
-The MATHS Lab is headed by [Dr. Jacob Paul](https://findanexpert.unimelb.edu.au/profile/426619-jacob-paul) from the <b>School of Psychological Sciences, University of Melbourne, Australia</b>.
+<br>
+The MATHS Lab is headed by <b>[Dr. Jacob Paul](https://findanexpert.unimelb.edu.au/profile/426619-jacob-paul)</b> from the <i>School of Psychological Sciences, University of Melbourne, Australia</i>.
