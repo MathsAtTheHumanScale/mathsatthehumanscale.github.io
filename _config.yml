@@ -180,7 +180,7 @@ google_analytics:      G-Q88GESBEPL
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
-# tinyletter:            <username>
+tinyletter:            mathsatthehumanscale@gmail.com
 
 
 # Hydejack Settings
