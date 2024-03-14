@@ -39,7 +39,7 @@ font_heading: false
 font_code:    false
 ---
 
-Dr Jacob Paul is a cognitive neuroscientist at the Melbourne School of Psychological Sciences. His interests include numerical cognition (including dyscalculia), the neurocognitive development of maths reasoning, and visual perception.
+Dr Jacob Paul is a cognitive neuroscientist at the Melbourne School of Psychological Sciences, where he leads the Maths At The Human Scale (MATHS) Lab. His interests include numerical cognition (including dyscalculia), the neurocognitive development of maths reasoning, and visual perception.
 
 His research spans multiple levels of explanation from modelling longitudinal patterns of maths learning, to characterising individual differences in numerical decision making, and mapping the organisation of neural circuits underlying transformations of visual quantities.
 
