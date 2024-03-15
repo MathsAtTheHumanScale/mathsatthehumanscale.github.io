@@ -21,9 +21,28 @@ font_heading: false
 font_code:    false
 ---
 
-Feel free to download, print, and share these stickers about all things MATHS.<br>
-[Maths At The Human Scale (vertical)](/assets/img/maths_at_the_human_scale.png)<br>
-[Maths At The Human Scale (horizontal)](/assets/img/maths-at-the-human-scale_horizontal.png)<br>
-[MATHS Lab logo](/assets/img/maths_lab_logo.png)<br>
-[MATHS logo](/assets/img/maths_logo.png)<br>
-[All brains are maths brains](/assets/img/all_brains_are_maths_brains.png)<br>
+Feel free to download, print, and share these stickers about all things MATHS - click for fullsize image.<br>
+<br><b>Maths At The Human Scale (vertical):</b><br>
+<a href="/assets/img/maths_at_the_human_scale.png"><img src="/assets/img/maths_at_the_human_scale.png"
+     alt="Maths At The Human Scale (vertical)"
+     width="400" /></a>
+
+<br><b>Maths At The Human Scale (horizontal):</b><br>
+<a href="/assets/img/maths-at-the-human-scale_horizontal.png"><img src="/assets/img/maths-at-the-human-scale_horizontal.png"
+     alt="Maths At The Human Scale (horizontal)"
+     width="400" /></a>
+
+<br><b>MATHS Lab logo:</b><br>
+<a href="/assets/img/maths_lab_logo.png"><img src="/assets/img/maths_lab_logo.png"
+     alt="MATHS Lab logo"
+     width="400" /></a>
+
+<br><b>MATHS logo:</b><br>
+<a href="/assets/img/maths_logo.png"><img src="/assets/img/maths_logo.png"
+     alt="MATHS logo"
+     width="400" /></a>
+
+<br><b>All brains are maths brains:</b><br>
+<a href="/assets/img/all_brains_are_maths_brains.png"><img src="/assets/img/all_brains_are_maths_brains.png"
+     alt="All brains are maths brains"
+     width="400" /></a>
