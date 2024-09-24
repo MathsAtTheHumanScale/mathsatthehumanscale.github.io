@@ -44,3 +44,5 @@ Dr Jacob Paul is a cognitive neuroscientist at the Melbourne School of Psycholog
 His research spans multiple levels of explanation from modelling longitudinal patterns of maths learning, to characterising individual differences in numerical decision making, and mapping the organisation of neural circuits underlying transformations of visual quantities.
 
 He is passionate about translating his research findings to help enhance levels of "functional numeracy" in the general population, improve learning and instruction of mathematics, as well as constructing brain-based interventions and remediation programs for individuals with maths learning difficulties.
+
+Jacob is a proud supporter of <b>[STEMpals](https://stempals.org.au/)</b>, which connects Australian grade 5 & 6 students to STEM professionals through a pen pal program so students can be who they can see.

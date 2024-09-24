@@ -11,6 +11,8 @@ By better understanding how we construct mental models of maths knowledge, <b>ou
 <br>
 Read more about our <b>[Projects](https://mathsatthehumanscale.github.io/projects/)</b> and the <b>[People](https://mathsatthehumanscale.github.io/people/)</b> that make up the MATHS Lab.<br>
 
+We are <b>[currently recruiting](https://q.surveys.unimelb.edu.au/jfe/form/SV_cBnmNLpqlnasiJ8)</b> adults who live in Australia who experience difficulties with maths in daily life to share their experiences.
+
 If you are interested in participating in any of our research, please register <b>[here](https://mathsatthehumanscale.github.io/participate/)</b><br>
 
 <br>
