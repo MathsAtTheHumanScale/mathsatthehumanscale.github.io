@@ -4,7 +4,7 @@ title: 'MATHS Stickers'
 caption: Maths At The Human Scale (MATHS) Lab stickers to download
 description: >
   Download, print, and share
-date: 18 August 2022
+date: 1 February 2022
 image: 
   path: /assets/img/projects/maths-stickers.jpg
   srcset: 
