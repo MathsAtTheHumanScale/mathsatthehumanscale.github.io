@@ -28,6 +28,6 @@ From these high-resolution images we can create STL files that are required for 
 After a few hours of printing, this produces a 3D print of your unique brain.
 
 Posterior view:
-<img src="/assets/img/3dprinted-brainback.jpg"
+<br><img src="/assets/img/3dprinted-brainback.jpg"
      alt="3D printed brain (back)"
      width="400" />

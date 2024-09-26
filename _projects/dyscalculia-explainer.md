@@ -23,3 +23,5 @@ font_code:    false
 ---
 
 An accessible explainer on dyscalculia for teachers, parents, and other educators by School News.
+
+<b>[Click here](https://www.school-news.com.au/news/what-is-dyscalculia/)</b> to read more.
