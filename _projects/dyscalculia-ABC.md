@@ -27,3 +27,9 @@ ABC News (Hobart) article about dyscalculia and maths learning difficulties in A
 <b>[Click here](https://www.abc.net.au/news/2024-10-07/dyscalculia-artist-tasmania-dyslexia-maths/104063598)</b> to read more.
 
 <br>Or <b>[watch a short recap here](https://www.instagram.com/abchobart/reel/DAzTveqhil_/?hl=en)</b>.
+
+<br><b>ABC Radio (Hobart) Drive</b> with Kylie Baxter:
+<audio controls>
+  <source src= "/assets/img/projects/ABC_Hobart_Dyscalculia_7-10-24.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
